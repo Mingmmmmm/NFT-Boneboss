@@ -2,7 +2,7 @@
     "name": "personal-portfolio",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/Mingmmmmm/NFT-Boneboss.git",
+    "homepage": "https://mingmmmmm.github.io/NFT-Boneboss/",
     "dependencies": {
         "@alch/alchemy-web3": "^1.4.7",
         "@nomicfoundation/hardhat-toolbox": "^2.0.0",

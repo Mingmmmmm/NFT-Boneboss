@@ -1,5 +1,5 @@
 import { createAlchemyWeb3 } from "@alch/alchemy-web3";
-import contractABI from "./abi.json";
+import contractABI from "./ABI.json";
 
 
 const web3 = createAlchemyWeb3(
